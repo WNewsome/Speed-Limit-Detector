@@ -15,7 +15,7 @@ int main(int argc, const char *argv[]) {
 	String sign_screen = "Speed Limit";
 	Rect myROI(640, 120, 639, 600);
 	Mat test;
-	imwrite("program_executed.JPG", test);
+	//imwrite("program_executed.JPG", test);
 	if (!Detection.load("Speed_limit_classifier.xml")) {
 		cout << "\n XML File not found";
 		exit(0);

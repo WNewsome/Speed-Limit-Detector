@@ -1,5 +1,5 @@
 # Speed Limit Detector
-This is a project still <b>in progress.</b><br>
+
 The program uses openCV and available classifiers to detect and display speed limit signs in the US.
 
 
